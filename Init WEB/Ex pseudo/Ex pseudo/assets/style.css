@@ -1,0 +1,32 @@
+a:link{
+	font-color:cyan;
+}
+
+a:visited { 
+	color: gray;
+}
+
+a:hover{
+	color:#b3ffff;
+}
+
+
+li:hover{
+	background-color:yellow;
+}
+
+p:target{
+	color:red;
+	font-style:italic;
+}
+
+#sec2::before{
+	content: url("3girls.jpg");
+}
+
+#sec2::after{
+	content: "--->Texte ajouté";
+	color:brown;
+	border: 2px solid brown;
+}
+

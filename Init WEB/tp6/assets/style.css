@@ -1,0 +1,25 @@
+table{
+	width : 205px;
+	margin: 80px;
+	background-color : brown;
+	border-radius : 6px;
+	
+}
+
+#affich{
+	background-color:cyan;
+	border-radius : 3px;
+}
+ th, td {
+	border-collapse : collapse; 
+	padding: 3px;
+	text-align :center;
+}
+
+input{
+		text-align :right;
+}
+
+button{
+	background-image : linear-gradient(blue,grey);
+}

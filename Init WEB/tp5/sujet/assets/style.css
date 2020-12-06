@@ -1,0 +1,52 @@
+body{
+	background : url("fondBeige.jpg") repeat;
+}
+
+header{
+	border : 2px solid black;
+	border-radius : 25px;
+	background : url("IUTLyon1.png") no-repeat fixed top right;
+}
+
+#corps{
+	border-top : 5px solid blue;
+	margin-top: 5px;
+}
+
+nav ul{
+	position:relative;
+	margin-left:60%;
+	margin-bottom:0;
+	margin-top: 0;
+}
+
+nav li{
+	padding:0;
+	display:inline;
+	border : 2px solid black;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	
+}
+
+article{
+	display: inline-block;
+	width: 60%;
+}
+
+aside{
+	display: inline-block;
+	background-color:red;
+	width:35%;
+	padding:5px;
+}
+
+footer li{
+	display:inline;
+	margin-bottom: 0;
+}
+
+footer{
+	border-top : 5px solid blue;
+	margin-top: 5px;
+}

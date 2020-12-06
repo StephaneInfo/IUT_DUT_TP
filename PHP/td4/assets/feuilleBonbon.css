@@ -1,0 +1,147 @@
+body{
+	padding: 0;
+	background: linear-gradient(-90deg,#ffcdc8,#ffe4e1);
+	font-size: 14px;
+	overflow:hidden;
+}
+
+aside{
+	margin: 1%;
+}
+
+img{
+	display:inline;
+}
+
+h1{
+	font-size: 5rem;
+	font-weight:bold;
+	top:0%;
+}
+
+
+header{
+	text-align:center;
+	width:80%;
+	height: 5%;
+}
+
+.colonne1{
+	display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 5%;
+	margin: 2%;
+}
+
+aside img{
+	max-width: 8%;
+	position:absolute;
+	left:1%;
+	top: 1%;
+}
+
+
+.colonne2{
+	display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin: 1%;
+	left:12%;
+	width: 88%;
+	space-around : 1%;
+}
+
+/* Acceuil*/
+
+#imgAccueil img{
+	max-height: 40%;
+	position: absolute;
+	left: 20%;
+	right:20%;
+}
+
+main div img p{
+	display: block;
+	margin:5%;
+}
+
+nav{
+	position: absolute;
+	left:1%;
+	top: 26%;
+}
+
+nav a{
+	text-decoration:none;
+}
+ 
+
+#p1lien1{
+	font-size: 2em;
+	font-weight:bold;
+	overflow: hidden;
+}
+
+
+#p1lien2{
+	font-size: 2em;
+	font-weight:bold;
+	overflow: hidden;
+}
+
+
+#p1lien3{
+	font-weight:bold;
+	font-size: 2em;
+	overflow: hidden;
+}
+
+
+main{
+	width: 50%;
+	height: 90%;
+	position: absolute;
+	left: 5%;
+	top:30%;
+	z-index:0;
+}
+
+footer{
+	width: 100%;
+	height: 10%;
+	position: absolute;
+	left: 1%;
+	bottom:0%;
+	top: 95%;
+}
+
+/***  catalogue ***/
+
+.row1{
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+.produit{
+	max-height: 100px;
+	background-color:red;
+	margin:8%;
+}
+
+.row2{
+display: flex;
+	flex-direction: row;
+}
+
+.row3{
+display: flex;
+	flex-direction: row;
+}
+
+@media handheld {
+	display:flex;
+	flex-wrap: wrap;
+}

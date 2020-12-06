@@ -1,0 +1,33 @@
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 20
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 20
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 22
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 22
+[02-Jun-2017 19:44:01 Europe/Paris] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 18
+[02-Jun-2017 19:44:17 Europe/Paris] PHP Notice:  Undefined variable: pdo in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 16
+[02-Jun-2017 19:44:17 Europe/Paris] PHP Fatal error:  Call to a member function query() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 16
+[23-Jun-2017 19:00:35 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 4
+[23-Jun-2017 19:03:54 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 58
+[23-Jun-2017 19:04:12 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 56
+[23-Jun-2017 19:04:14 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 56
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Warning:  include_once(listeProduit.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 2
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Warning:  include_once(): Failed opening 'listeProduit.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 2
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Warning:  include(../php/BDD.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 34
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Warning:  include(): Failed opening '../php/BDD.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 34
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Notice:  Undefined variable: pdo in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 38
+[23-Jun-2017 19:05:56 Europe/Paris] PHP Fatal error:  Call to a member function query() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 38
+[23-Jun-2017 19:06:14 Europe/Paris] PHP Warning:  include(../php/BDD.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 31
+[23-Jun-2017 19:06:14 Europe/Paris] PHP Warning:  include(): Failed opening '../php/BDD.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 31
+[23-Jun-2017 19:06:14 Europe/Paris] PHP Notice:  Undefined variable: pdo in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 35
+[23-Jun-2017 19:06:14 Europe/Paris] PHP Fatal error:  Call to a member function query() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td4/catalogue.php on line 35

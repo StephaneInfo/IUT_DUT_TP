@@ -1,0 +1,19 @@
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:04:43 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:05:15 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 17
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:07:46 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 19
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 20
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 20
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined variable: n in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 22
+[02-Jun-2017 19:10:52 Europe/Paris] PHP Notice:  Undefined index:  in /home/UNIV-LYON1/p1514542/public_html/td3/go.php on line 22
+[02-Jun-2017 19:44:01 Europe/Paris] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 18
+[02-Jun-2017 19:44:17 Europe/Paris] PHP Notice:  Undefined variable: pdo in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 16
+[02-Jun-2017 19:44:17 Europe/Paris] PHP Fatal error:  Call to a member function query() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td3/tool.php on line 16

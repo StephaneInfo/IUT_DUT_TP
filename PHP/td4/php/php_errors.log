@@ -1,0 +1,39 @@
+[16-Jun-2017 19:35:04 Europe/Paris] PHP Parse error:  syntax error, unexpected '$nomBonbon' (T_VARIABLE) in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 5
+[16-Jun-2017 19:36:16 Europe/Paris] PHP Warning:  include(./php/BDD.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 3
+[16-Jun-2017 19:36:16 Europe/Paris] PHP Warning:  include(): Failed opening './php/BDD.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 3
+[16-Jun-2017 19:36:16 Europe/Paris] PHP Notice:  Undefined variable: pdo in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 13
+[16-Jun-2017 19:36:16 Europe/Paris] PHP Fatal error:  Call to a member function query() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 13
+[16-Jun-2017 19:37:18 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:37:18 Europe/Paris] PHP Notice:  Undefined property: PDO::$error in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 16
+[16-Jun-2017 19:39:47 Europe/Paris] PHP Notice:  Undefined property: PDO::$error in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 19
+[16-Jun-2017 19:41:44 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:44:05 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:47:02 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:49:20 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:50:38 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:50:49 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:51:28 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:53:07 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:54:14 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 12
+[16-Jun-2017 19:54:50 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 12
+[16-Jun-2017 19:54:54 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 12
+[16-Jun-2017 19:55:24 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 19:56:14 Europe/Paris] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL) in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 12
+[16-Jun-2017 19:56:31 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:13:46 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:16:05 Europe/Paris] PHP Parse error:  syntax error, unexpected 'bonbon' (T_STRING) in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 10
+[16-Jun-2017 20:22:26 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:23:50 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:24:18 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:25:05 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:32:13 Europe/Paris] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 13
+[16-Jun-2017 20:33:22 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:35:19 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /home/UNIV-LYON1/p1514542/public_html/td4/php/BDD.php on line 2
+[16-Jun-2017 20:44:29 Europe/Paris] PHP Notice:  Undefined variable: req in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 21
+[23-Jun-2017 18:19:47 Europe/Paris] PHP Fatal error:  Call to a member function execute() on a non-object in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 13
+[23-Jun-2017 18:31:20 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 12
+[23-Jun-2017 18:31:38 Europe/Paris] PHP Notice:  Undefined variable: nomBonbon in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 15
+[23-Jun-2017 18:31:38 Europe/Paris] PHP Notice:  Undefined variable: descBonbon in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 16
+[23-Jun-2017 18:31:38 Europe/Paris] PHP Notice:  Undefined variable: prixBonbon in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 17
+[23-Jun-2017 18:31:38 Europe/Paris] PHP Notice:  Undefined variable: imgBonbon in /home/UNIV-LYON1/p1514542/public_html/td4/php/addBonbon.php on line 18
+[23-Jun-2017 19:18:44 Europe/Paris] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/UNIV-LYON1/p1514542/public_html/td4/php/remplirBDDProduit.php on line 7

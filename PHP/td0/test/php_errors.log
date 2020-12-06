@@ -1,0 +1,5 @@
+[07-Apr-2017 18:38:54 Europe/Paris] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/UNIV-LYON1/p1514542/public_html/td0/test/test.php on line 15
+[07-Apr-2017 18:40:00 Europe/Paris] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/UNIV-LYON1/p1514542/public_html/td0/test/test.php on line 15
+[07-Apr-2017 18:40:02 Europe/Paris] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/UNIV-LYON1/p1514542/public_html/td0/test/test.php on line 15
+[07-Apr-2017 18:41:26 Europe/Paris] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/UNIV-LYON1/p1514542/public_html/td0/test/test.php on line 15
+[07-Apr-2017 18:41:29 Europe/Paris] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/UNIV-LYON1/p1514542/public_html/td0/test/test.php on line 15
